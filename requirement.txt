@@ -1,0 +1,8 @@
+// npm create vite@latest ./
+   1. react
+   2. javascript
+npm install
+npm run dev
+
+npm install -D tailwindcss postcss autoprefixer
+npx tailwindcss init -p ////
